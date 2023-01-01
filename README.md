@@ -2,6 +2,7 @@
 
 - Team project
 - Written in pyhton
+- Implemented different sorting algorithms and compared between them
 
 ## Details
 
