@@ -4,7 +4,7 @@
 - Written in pyhton
 - Implemented different sorting algorithms and compared between them
 
-## Details
+## Project Details
 
 1. Ability to create test data files. Optionally test data files may be created using Microsoft Excel.
 2. The user can choose either to compare the efficiency of an algorithm with another algorithm, or to compare an algorithm with its asymptotic efficiency.
